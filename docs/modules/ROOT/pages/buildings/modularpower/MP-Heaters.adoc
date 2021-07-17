@@ -41,11 +41,11 @@ The biomass heater can produce 500c heat and can be fed with the following items
 * Packaged Liquid Biofuel
 
 ### Coal Heater
-The coal heater can produce 500c heat and can be fed with the following items:
+The Coal heater can produce 500c heat and can be fed with the following items:
 
 * Coal
 * Compacted Coal
-* Petrolium Coke
+* Petroleum Coke
 
 ### Solution Heater
 The Solution heater can produce 500c heat and can be fed with the following items:
